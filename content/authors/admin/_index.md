@@ -1,29 +1,24 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
+bio: Bio goes here
+  - Bren School of Environmental Science & Management (at UCSB)
+    - Expected 6/23
+    - Conservation Planning Specialization 
+    - Highlighted Coursework: Geographic Information Systems, Statistics & Data Analysis, Ecology of Managed Ecosystems, Conservation Planning, Environmental Writing, Landscape Ecology, Population Ecology
+  - University of California, Santa Barbara (UCSB)
+    - With Distinction in the Major (6/21)
+    - Awards: Worster Award (7/20), C. H. Muller Award for Excellence in the Plant Sciences (5/21)
+email: "lnharris@bren.ucsb.edu"
+first_name: Lauren
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Plant Ecology
+- Landscape Ecology
+- Geographic Information Systems
+last_name: Harris
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Bren School
+  url: https://bren.ucsb.edu/
+role: Masters Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,24 +28,24 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/laurenaceae
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/laurenaceae
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/laurenaceae
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Lauren Harris
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lauren Harris description...
 {style="text-align: justify;"}
