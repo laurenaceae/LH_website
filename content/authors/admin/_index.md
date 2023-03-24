@@ -1,12 +1,5 @@
 ---
 bio: Bio goes here
-  - Bren School of Environmental Science & Management (at UCSB)
-    - Expected 6/23
-    - Conservation Planning Specialization 
-    - Highlighted Coursework: Geographic Information Systems, Statistics & Data Analysis, Ecology of Managed Ecosystems, Conservation Planning, Environmental Writing, Landscape Ecology, Population Ecology
-  - University of California, Santa Barbara (UCSB)
-    - With Distinction in the Major (6/21)
-    - Awards: Worster Award (7/20), C. H. Muller Award for Excellence in the Plant Sciences (5/21)
 email: "lnharris@bren.ucsb.edu"
 first_name: Lauren
 highlight_name: true
@@ -47,5 +40,6 @@ superuser: true
 title: Lauren Harris
 ---
 
-Lauren Harris description...
+Lauren Harris is a student at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. She is currently obtaining her Masters of Environmental Science & Management with a specialization in Conservation Planning (expected 6/23). Lauren is passionate about the ecology of landscapes and plants. She hopes to better protect, restore, and manage California’s terrestrial ecosystems to maintain both its intrinsic value and to make nature more accessible and equitable for people. 
+    
 {style="text-align: justify;"}

@@ -6,3 +6,5 @@
 Thumbs.db
 .hugo_build.lock
 .Rprofile
+/public/
+/resources/
