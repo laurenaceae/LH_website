@@ -7,6 +7,7 @@ interests:
 - Plant Ecology
 - Landscape Ecology
 - Geographic Information Systems
+- Wildfire Ecology
 last_name: Harris
 organizations:
 - name: Bren School
@@ -24,7 +25,7 @@ social:
   link: https://twitter.com/laurenaceae
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com
 - icon: github
   icon_pack: fab
   link: https://github.com/laurenaceae
@@ -35,11 +36,11 @@ social:
   icon_pack: ai
   link: uploads/resume.pdf
 status:
-  icon: ☕️
+  icon: 
 superuser: true
 title: Lauren Harris
 ---
 
-Lauren Harris is a student at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. She is currently obtaining her Masters of Environmental Science & Management with a specialization in Conservation Planning (expected 6/23). Lauren is passionate about the ecology of landscapes and plants. She hopes to better protect, restore, and manage California’s terrestrial ecosystems to maintain both its intrinsic value and to make nature more accessible and equitable for people. 
+Lauren Harris is a graduate student at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. She is currently obtaining her Masters of Environmental Science & Management with a specialization in Conservation Planning (expected 6/23). Lauren is passionate about the ecology of landscapes and plants. She hopes to better protect, restore, and manage California’s terrestrial ecosystems to maintain both its intrinsic value and to make nature more accessible and equitable for people. 
     
 {style="text-align: justify;"}
